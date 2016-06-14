@@ -5,6 +5,8 @@ Jeu sous Unity en C#
 
 Création de 2 scènes.
 
-Importation:arène, maison, personnages.
+Importations:arène, maison, personnages.
+
+Génère des mobs aléatoires dans l'arène.
 
 
